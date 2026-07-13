@@ -1,3 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portfolio Banner</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#081326;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.banner{
+    width:1200px;
+    height:600px;
+    background:linear-gradient(135deg,#07132b,#0c214f,#081326);
+    border-radius:20px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:60px;
+    overflow:hidden;
+    position:relative;
+}
+
+.banner::before{
+    content:"";
+    position:absolute;
+    width:700px;
+    height:700px;
+    background:radial-gradient(circle,#2d7dff33,transparent);
+    right:-150px;
+    top:-150px;
+}
+
+
+
 <h1 align="center">Hi 👋, I'm Motaher Hossain</h1>
 <h3 align="center">A passionate frontend Web developer, web designer, active Freelancer from Bangladesh</h3>
 
