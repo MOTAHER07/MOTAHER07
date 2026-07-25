@@ -1,7 +1,7 @@
-<img src="(https://media.licdn.com/dms/image/v2/D5616AQE_RIvWDRhHJw/profile-displaybackgroundimage-shrink_200_800/B56Z9mVzNgHcAQ-/0/1784128418966?e=1785974400&v=beta&t=dhVkookweWeltxZF_JmB26r5HKFdzFeIaJen7Yy-BXE)">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQE_RIvWDRhHJw/profile-displaybackgroundimage-shrink_200_800/B56Z9mVzNgHcAQ-/0/1784128418966?e=1785974400&v=beta&t=dhVkookweWeltxZF_JmB26r5HKFdzFeIaJen7Yy-BXE">
 
 <h1 align="center">Hi 👋, I'm Motaher Hossain</h1>
-<h3 align="center">A passionate frontend Web developer, web designer, active Freelancer from Bangladesh</h3>
+<h3 align="center">A passionate frontend Web Designer, web Developer, WordPress Expert and active Freelancer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motaher07&label=Profile%20views&color=0e75b6&style=flat" alt="motaher07" /> </p>
 
